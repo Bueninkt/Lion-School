@@ -1,11 +1,28 @@
 <resources>
     <string name="app_name">Lion School</string>
-    <string name="title">Lion School</string>
-    <string name="headline">Find your favorite course</string>
-    <string name="description">
-        Get to your destination faster, study at the best vocational school in Brazil.
-        Be the best version of yourself.
-    </string>
-    <string name="get_started">Get Started</string>
-    <string name="logo_description">Lion School Logo</string>
+    <string name="app_logo">Application Logo</string>
+    <string name="social_facebook">Facebook logo</string>
+    <string name="social_youtube">Youtube Logo</string>
+    <string name="social_twitter">Twitter Logo</string>
+    <string name="social_instagram">Instagram Logo</string>
+    <string name="school_name">Lion\nSchool</string>
+    <string name="course_description">Find your favorite course</string>
+    <string name="course_details">Get to your destination faster, study at the best vocational school in Brazil. Be the best version of yourself</string>
+    <string name="start_button_text">Get Started</string>
+    <string name="search_placeholder">Find your course</string>
+    <string name="all_courses">Courses</string>
+    <string name="semester_duration">3 semestres</string>
+    <string name="ds_course">DS</string>
+    <string name="rds_course">RDS</string>
+    <string name="ele_course">ELE</string>
+    <string name="devsystem_course">Desenvolvedor de Sistema</string>
+    <string name="electro_course">Eletroeletrônica</string>
+    <string name="network_course">Redes de Computadores</string>
+    <string name="rds_course_details">Learn to design communication networks</string>
+    <string name="ele_course_details">Learn to design communication networks</string>
+    <string name="dev_course_details">Learn to develop web and mobile applications</string>
+    <string name="all_option">All</string>
+    <string name="studying_status">Studying</string>
+    <string name="completed_status">Finished</string>
+    <string name="students_list">Students List</string>
 </resources>
